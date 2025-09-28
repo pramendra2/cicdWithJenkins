@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JenkinseCIcdPractice\\cicdWithJenkins\\WebAppForJenkins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE05AF7-2F7E-44E2-9EF4-2BC1669A2C3B}|WebApplication1\\WebApplication1.csproj|d:\\jenkinsecicdpractice\\cicdwithjenkins\\webappforjenkins\\webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FAE05AF7-2F7E-44E2-9EF4-2BC1669A2C3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\JenkinseCIcdPractice\\cicdWithJenkins\\WebAppForJenkins\\WebApplication1\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication1\\Dockerfile",
+              "ToolTip": "D:\\JenkinseCIcdPractice\\cicdWithJenkins\\WebAppForJenkins\\WebApplication1\\Dockerfile",
+              "RelativeToolTip": "WebApplication1\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-28T11:00:36.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

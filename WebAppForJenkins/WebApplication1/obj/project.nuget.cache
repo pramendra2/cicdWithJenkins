@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4u84fpyWwE=",
+  "success": true,
+  "projectFilePath": "D:\\JenkinseCIcdPractice\\cicdWithJenkins\\WebAppForJenkins\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
